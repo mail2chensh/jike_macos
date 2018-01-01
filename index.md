@@ -14,7 +14,7 @@
 
 之后有时间，会逐步同步完善App的功能。
 
-如果您发现有什么Bug，请随时[联系我](mail2chensh@gmail.com).
+如果您发现有什么Bug，请随时联系我: mail2chensh@gmail.com.
 
 或者提issue到[这里](https://github.com/mail2chensh/jike_macos/issues)。
 
